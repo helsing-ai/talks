@@ -12,4 +12,5 @@ We believe in the power of knowledge sharing and continuous learning. This repos
 
 The repository is organized as follows:
 
-- `zero-to-macros/slides.md`: Slides from the **0 -> Macros (feat. Rust)** talk at [IC Hack 2015](https://ichack.org/)
+- `ai-done-quick/slides.pdf`: Slides from the **AI Done Quick** talk at [AI for Ukraine Recovery Hackathon 2024](https://blog.helsing.ai/ai-for-ukraine-recovery-hackathon-eac351a3afad)
+- `zero-to-macros/slides.md`: Slides from the **0 -> Macros (feat. Rust)** talk at [IC Hack 2025](https://ichack.org/)
