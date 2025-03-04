@@ -276,7 +276,6 @@ You compromise _danger_ for expressivity. We're not going to cover either of the
 # [fit] Practical demo
 
 ^ Show tokens->tokens, generate some simple code
-TODO practice
 
 ---
 
@@ -451,7 +450,6 @@ ItemFn {
 
 ^ So let's use this to clean up our hello-world example!
 We've now ended up with the canonical "hello world!" of macros in Rust.
-TODO practice
 
 ---
 
@@ -493,7 +491,7 @@ https://github.com/bnjbvr/rouille
 
 # [fit] **Ludicrous** mode
 
-^ those of you with particularly dirty minds will have realised that during this step, you can do _anything you want_.
+^ those of you with particularly depraved minds will have realised that during this step, you can do _anything you want_.
 Yes, including things with side-effects.
 So, someone asked the question - what if, in my code, I just _describe what I want_, and then let ChatGPT write my code?
 If you like non-determinism and madness, this is definitely where you want to be.
