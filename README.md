@@ -9,7 +9,7 @@ Note: Some materials are written in Markdown format for [Deckset](https://www.de
 
 We believe in the power of knowledge sharing and continuous learning. This
 repository was created to provide a central location for talks and presentations
-our team has delivered. Whether you missed a talk or want to revisit the
+Helsing has delivered. Whether you missed a talk or want to revisit the
 content, you'll find the materials here.
 
 The repository is organised as follows:
