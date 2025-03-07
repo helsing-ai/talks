@@ -1,6 +1,8 @@
 autoscale: true
 footer: Helsing, London, IC Hack 2025
 
+^ Note: This file contains Markdown source code for Deckset.
+
 # [fit] **Macros** and Rust
 
 #### Luke Tomlin, Helsing @ IC Hack 2025
