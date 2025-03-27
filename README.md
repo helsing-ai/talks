@@ -14,5 +14,6 @@ content, you'll find the materials here.
 
 The repository is organised as follows:
 
+- [2025] `arcshift-going-10x-faster-than-rwlock`: Slides from the *Arcshift* talk at [Rustikon, 2025](https://rustikon.dev)
 - [2025] `zero-to-macros/slides.md`: Slides from the *0 -> Macros (feat. Rust)* talk at [IC Hack 2025](https://ichack.org/)
 - [2024] `ai-done-quick/slides.pdf`: Slides from the *AI Done Quick* talk at [AI for Ukraine Recovery Hackathon 2024](https://blog.helsing.ai/ai-for-ukraine-recovery-hackathon-eac351a3afad)
